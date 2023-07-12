@@ -1,7 +1,7 @@
 # Projeto - Visite-Paraty
 Esse é um projeto desenvolvido pela DevMedia. A proposta desse projeto é criar um site utilizando as tecnologias HTML e CSS.
 
-### Segue os conceitos aplicados
+## Segue os conceitos aplicados
 - HTML
 - CSS
 - BOXMODEL
